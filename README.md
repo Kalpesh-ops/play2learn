@@ -1,6 +1,6 @@
-**#SummerOfCodeFest'25
-**#GSoCInnovationClub
-**#GSoCInnovators
+**#SummerOfCodeFest'25**
+**#GSoCInnovationClub**
+**#GSoCInnovators**
 
 🚀 Project Type :- 
 Gamify Experiences: Transforming the Ordinary into Extraordinary through Game Design.
@@ -36,7 +36,7 @@ Some premium games which will have better questions, and a more engaging experie
 ## Important Info: 
 The Hill Climb Racing game doesn't work on the college wifi as it is built using C++, C# and Unity and thus uploaded on itch.io so kindly use a different network for it to work properly.
 
-The webapp is deployed using render.com and the url is **"https://play2learn-5bs4.onrender.com"
+The webapp is deployed using render.com and the url is **"https://play2learn-5bs4.onrender.com"**
 
 
 👥 Team Members :-
